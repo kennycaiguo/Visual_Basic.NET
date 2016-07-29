@@ -1,0 +1,11 @@
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\bin\Debug\ENTD461-Assignment1-WK6.exe.config
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\bin\Debug\MyDatabase.accdb
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\bin\Debug\ENTD461-Assignment1-WK6.exe
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\bin\Debug\ENTD461-Assignment1-WK6.pdb
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\bin\Debug\ENTD461-Assignment1-WK6.xml
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461_Assignment1_WK6.Form1.resources
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461_Assignment1_WK6.Resources.resources
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461-Assignment1-WK6.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461-Assignment1-WK6.exe
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461-Assignment1-WK6.xml
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK6\ENTD461-Assignment1-WK6\obj\Debug\ENTD461-Assignment1-WK6.pdb
