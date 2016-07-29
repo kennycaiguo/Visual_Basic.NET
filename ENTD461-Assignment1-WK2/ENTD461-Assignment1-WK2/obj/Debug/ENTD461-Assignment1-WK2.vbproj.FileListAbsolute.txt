@@ -1,0 +1,20 @@
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.exe.config
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461_Assignment1_WK2.Form1.resources
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461_Assignment1_WK2.Resources.resources
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.vbproj.GenerateResource.Cache
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.exe
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.pdb
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.xml
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.exe
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.xml
+C:\Users\drakus\Documents\Visual Studio 2012\Projects\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.pdb
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.exe.config
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.exe
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.xml
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.pdb
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.exe
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.pdb
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\bin\Debug\ENTD461-Assignment1-WK2.xml
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461_Assignment1_WK2.Form1.resources
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461_Assignment1_WK2.Resources.resources
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\ENTD461-Assignment1-WK2\obj\Debug\ENTD461-Assignment1-WK2.vbproj.GenerateResource.Cache
