@@ -1,0 +1,15 @@
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\ENTD461-Assignment1.exe.config
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.exe
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.xml
+C:\Users\Wilman\Desktop\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.pdb
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\ENTD461-Assignment1.exe.config
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.exe
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.xml
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment1.pdb
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\MyDatabase.accdb
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\ENTD461-Assignment1.exe
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\ENTD461-Assignment1.pdb
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\bin\Debug\ENTD461-Assignment1.xml
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461_Assignment1.Form1.resources
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461_Assignment1.Resources.resources
+D:\Desktop\School\ENTD461 D001 Win 15\week assignment\week7\ENTD461-Assignment1-WK7\ENTD461-Assignment1\obj\Debug\ENTD461-Assignment4week7.vbproj.GenerateResource.Cache
