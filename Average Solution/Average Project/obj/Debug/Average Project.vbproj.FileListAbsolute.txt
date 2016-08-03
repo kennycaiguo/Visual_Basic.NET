@@ -1,0 +1,31 @@
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\bin\Debug\Average Project.exe.config
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\bin\Debug\Average Project.exe
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\bin\Debug\Average Project.pdb
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\bin\Debug\Average Project.xml
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average_Project.Form1.resources
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average_Project.Resources.resources
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average Project.vbproj.GenerateResource.Cache
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average Project.exe
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average Project.xml
+C:\Users\Poison monarch\Desktop\Gonzales2\Average Solution\Average Project\obj\Debug\Average Project.pdb
+C:\Users\Poison monarch\Desktop\Gonzales_Chapter2Exercise\Average Solution\Average Project\bin\Debug\Average Project.exe.config
+C:\Users\Poison monarch\Desktop\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.exe
+C:\Users\Poison monarch\Desktop\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.xml
+C:\Users\Poison monarch\Desktop\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.pdb
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\bin\Debug\Average Project.exe.config
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.exe
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.xml
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\bin\Debug\Average Project.exe.config
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average_Project.Form1.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\bin\Debug\Average Project.exe.config
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.vbprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average_Project.Form1.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 1\Gonzales_Chapter2Exercise\Average Solution\Average Project\obj\Debug\Average Project.vbproj.GenerateResource.Cache
