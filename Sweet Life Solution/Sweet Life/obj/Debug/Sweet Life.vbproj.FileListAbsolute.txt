@@ -1,0 +1,31 @@
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe.config
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.pdb
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.xml
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Form1.resources
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Resources.resources
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.vbproj.GenerateResource.Cache
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.exe
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.xml
+C:\Users\Poison monarch\Desktop\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe.config
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Form1.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Resources.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe.config
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\bin\Debug\Sweet Life.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.vbprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Form1.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet_Life.Resources.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 4\chapter7\Sweet Life Solution\Sweet Life\obj\Debug\Sweet Life.vbproj.GenerateResource.Cache
