@@ -1,0 +1,41 @@
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.Cache
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\wilma_000\Desktop\all answer visual studio\ISM\Chap11\lcKerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+C:\Users\wilma_000\Desktop\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 6\Gonzales_Chapter11Exercise\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.Cache
