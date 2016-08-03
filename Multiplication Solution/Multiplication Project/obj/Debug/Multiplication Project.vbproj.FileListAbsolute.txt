@@ -1,0 +1,42 @@
+C:\Users\Poison monarch\Desktop\VB2012\Chap06\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.pdb
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.xml
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.Cache
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.exe
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.xml
+C:\Users\Poison monarch\Desktop\Chapter 6\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.pdb
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.pdb
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.xml
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.Cache
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.exe
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.xml
+C:\Users\Poison monarch\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.pdb
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.xml
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+C:\Users\Wilman\Desktop\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 3\Gonzales_Chapter6Exercise\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.Cache
