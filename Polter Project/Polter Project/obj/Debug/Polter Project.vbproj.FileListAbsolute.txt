@@ -1,0 +1,33 @@
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\bin\Debug\Polter Project.exe.config
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\bin\Debug\Products.accdb
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\bin\Debug\Polter Project.exe
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\bin\Debug\Polter Project.pdb
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\bin\Debug\Polter Project.xml
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter_Project.frmMain.resources
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter_Project.Resources.resources
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter Project.vbproj.GenerateResource.Cache
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter Project.exe
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter Project.xml
+C:\Users\Wilman\Desktop\lcPolter Solution\Polter Project\obj\Debug\Polter Project.pdb
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.exe.config
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.exe
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.xml
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.pdb
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Products.accdb
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.exe
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.pdb
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.xml
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter_Project.frmMain.resources
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter_Project.Resources.resources
+C:\Users\Wilman\Desktop\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.vbproj.GenerateResource.Cache
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.exe.config
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Products.accdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.exe
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.pdb
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\bin\Debug\Polter Project.xml
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter_Project.frmMain.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter_Project.Resources.resources
+D:\Desktop\School\ENTD361 D001 Sum 14\assignment 8\Gonzales_chapter14Exercise\Polter Project\obj\Debug\Polter Project.vbproj.GenerateResource.Cache
